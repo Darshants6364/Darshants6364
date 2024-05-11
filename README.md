@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Darshants6364
-- 👀 I’m interested in HTML,CSS,JavaScript
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on Front_End Web development
+- 👀 I’m interested in Data Science, Machine Learning and i also know HTML,CSS,JavaScript
+- 🌱 I’m currently learning NLP
+- 💞️ I’m looking to collaborate on Data Science, Machine Learning Front_End Web development
 - 📫 How to reach me darshants6364@gmail.com
 
 <!---
